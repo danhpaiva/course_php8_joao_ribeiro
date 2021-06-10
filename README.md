@@ -34,6 +34,8 @@ The following tools were used in the construction of the project:
 
 - IDE: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 - Development Environment: <a href="https://laragon.org/">Laragon</a>
+- PHP 7.4<a href="https://windows.php.net/">VC15 x64 Thread Safe (2021-Jun-02 00:00:15)</a>
+- PHP 8.0 (8.0.7) <a href="https://windows.php.net/">VS16 x64 Thread Safe (2021-Jun-02 01:28:46)</a>
 
 <h2 id=autor>:grin: Author</h2>
 

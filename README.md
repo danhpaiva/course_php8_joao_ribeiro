@@ -32,6 +32,7 @@ The goal is to work with...
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+- Development Environment: <a href="https://laragon.org/">Laragon</a>
 
 <h2 id=autor>:grin: Author</h2>
 

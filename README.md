@@ -26,6 +26,7 @@ The goal is to work with...
 
 1. Clone the repo.
 2. Install Visual Studio.
+3. Install Laragon
 
 <h2 id=tecnologias>:toolbox: Technology</h2>
 

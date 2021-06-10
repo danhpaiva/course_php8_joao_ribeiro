@@ -38,4 +38,4 @@ The following tools were used in the construction of the project:
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
 
 <h2 id=licenca>:lock: Licence</h2>
-<a href="https://github.com/danhpaiva/course-basic-java-JdA/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/danhpaiva/course_php8_joao_ribeiro/blob/main/LICENSE" target="_blank">MIT</a>

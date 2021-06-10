@@ -27,6 +27,22 @@ The goal is to work with...
 1. Clone the repo.
 2. Install Visual Studio.
 3. Install Laragon
+4. Download PHP7 and PHP8, and copy the .zip files to the Laragon folder:
+
+~~~
+C:\laragon\bin\php
+~~~
+
+5. Now extract both versions of php. In my case I had two new versions:
+   
+~~~
+php-7.4.20-Win32-vc15-x64 | php-8.0.7-Win32-vs16-x64
+~~~
+
+6. Now delete the two .zip's.
+7. Open Laragon, right click PHP, select version 7.4 and click start all.<br>
+   Give the necessary permissions to the services.
+8. All finished.
 
 <h2 id=tecnologias>:toolbox: Technology</h2>
 

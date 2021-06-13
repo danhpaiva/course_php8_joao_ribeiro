@@ -1,5 +1,5 @@
 <h1>PHP 8</h1>
-<h3><a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ" target="_blank">Complete php 8 course - Joao Ribeiro channel</a></h3>
+<h3><a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ" target="_blank">🐘 Complete php 8 course - Joao Ribeiro channel 🐘</a></h3>
 
 <p align="center">
     <img src="./images/php.svg" width="150">

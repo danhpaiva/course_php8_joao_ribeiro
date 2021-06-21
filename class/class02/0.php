@@ -1,3 +1,3 @@
 <?php
 
-//Código php
+//Code php

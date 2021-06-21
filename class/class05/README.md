@@ -1,3 +1,3 @@
-<h1>Class 04</h1>
+<h1>Class 05</h1>
 
-<p>Comments in php.</p>
+<p>Using variables in .php</p>

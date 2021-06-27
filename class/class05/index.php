@@ -1,15 +1,13 @@
 <?php
 
-$number_five;
+$numberFive = 5;
 
-$number_five = 5;
+echo "Using number: " . $numberFive . "<br>";
 
-echo "Using number: " . $number_five . "<br>";
+$numberFive = "five";
 
-$number_five = "five";
+echo "Using string: " . $numberFive . "<br>";
 
-echo "Using string: " . $number_five . "<br>";
+$NumberFive = 5;
 
-$number_Five = 5;
-
-echo "Using another variable: " . $number_Five . "<br>";
+echo "Using another variable: " . $NumberFive . "<br>";

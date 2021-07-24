@@ -1,3 +1,3 @@
-<h1>Class 09</h1>
+<h1>Class 10</h1>
 
 <p>EXERCISES WITH ARITHMETIC AND ASSIGNMENT OPERATORS in .php</p>

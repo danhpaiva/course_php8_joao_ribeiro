@@ -1,5 +1,5 @@
 <h1>PHP 8</h1>
-<h3><a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ" target="_blank">🐘 Complete php 8 course - Joao Ribeiro channel 🐘</a></h3>
+<h3 align="center"><a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ" target="_blank">🐘 Complete php 8 course - Joao Ribeiro channel 🐘</a></h3>
 
 <p align="center">
     <img src="./images/php.svg" width="150">
@@ -10,7 +10,7 @@
  <a href="#objetivo">Objective</a> •
  <a href="#instalacao">Installation</a> • 
  <a href="#tecnologias">Technology</a> • 
- <a href="#autor">Author</a> .
+ <a href="#autor">Author</a> •
  <a href="#licenca">License</a>
 </p>
 

@@ -49,6 +49,7 @@ php-7.4.20-Win32-vc15-x64 | php-8.0.7-Win32-vs16-x64
 The following tools were used in the construction of the project:
 
 - IDE - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+- VScode Extension - <a href="https://github.com/bmewburn/vscode-intelephense">PHP Intelephense (bmewburn.vscode-intelephense-client)</a> 
 - Development Environment - <a href="https://laragon.org/">Laragon</a>
 - PHP 7.4 - <a href="https://windows.php.net/">VC15 x64 Thread Safe (2021-Jun-02 00:00:15)</a>
 - PHP 8.0 (8.0.7) - <a href="https://windows.php.net/">VS16 x64 Thread Safe (2021-Jun-02 01:28:46)</a>

@@ -1,0 +1,3 @@
+<h1>Class 14</h1>
+
+<p>ESCAPE CHARACTERS, TERMINAL AND HTML ENTITIES in .php</p>

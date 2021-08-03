@@ -1,4 +1,4 @@
-<h1>Course PHP 8</h1>
+<h1 align="center">Course PHP 8</h1>
 <h3 align="center"><a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ" target="_blank">🐘 Complete php 8 course - Joao Ribeiro channel 🐘</a></h3>
 
 <p align="center">

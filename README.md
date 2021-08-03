@@ -8,7 +8,7 @@
 <p align="center">
  <a href="#status">Status</a> • 
  <a href="#objetivo">Objective</a> •
- <a href="#instalacao">Installation</a> • 
+ <a href="#nstallation">Installation</a> • 
  <a href="#tecnologias">Technology</a> • 
  <a href="#autor">Author</a> •
  <a href="#licenca">License</a>
@@ -22,7 +22,7 @@
 Complete PHP 8 course on Professor João Ribeiro's channel.
 The goal is to work with...
 
-<h2 id=instalacao>:clipboard: Installation</h2>
+<h2 id=nstallation>:clipboard: Installation</h2>
 
 1. Clone the repo.
 2. Install Visual Studio.
